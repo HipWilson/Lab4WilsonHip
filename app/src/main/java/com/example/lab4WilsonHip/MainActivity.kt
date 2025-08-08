@@ -1,3 +1,5 @@
+//Video del funcionamiento del prorgama:
+// https://youtube.com/shorts/kvMJSXrCpsI
 package com.example.lab4WilsonHip
 
 import android.os.Bundle
